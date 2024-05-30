@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hanyan-flute/static/css/main.fe927caf.css",
-    "main.js": "/hanyan-flute/static/js/main.c2fe6bf1.js",
+    "main.js": "/hanyan-flute/static/js/main.bcd28a70.js",
     "static/js/787.4b24f717.chunk.js": "/hanyan-flute/static/js/787.4b24f717.chunk.js",
     "static/media/teaching.png": "/hanyan-flute/static/media/teaching.2864a38e48b8947df67c.png",
     "static/media/millan.png": "/hanyan-flute/static/media/millan.457700fa82cdbe8255cd.png",
@@ -12,11 +12,11 @@
     "static/media/wechat.jpg": "/hanyan-flute/static/media/wechat.f121ab38772d3d7ea498.jpg",
     "index.html": "/hanyan-flute/index.html",
     "main.fe927caf.css.map": "/hanyan-flute/static/css/main.fe927caf.css.map",
-    "main.c2fe6bf1.js.map": "/hanyan-flute/static/js/main.c2fe6bf1.js.map",
+    "main.bcd28a70.js.map": "/hanyan-flute/static/js/main.bcd28a70.js.map",
     "787.4b24f717.chunk.js.map": "/hanyan-flute/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.c2fe6bf1.js"
+    "static/js/main.bcd28a70.js"
   ]
 }
